@@ -1,6 +1,6 @@
 # Analysis of Trader Behavior vs Bitcoin Market Sentiment
 
-**Candidate:** Umar Ansari
+**Candidate:** Anchal patel
 
 ---
 
